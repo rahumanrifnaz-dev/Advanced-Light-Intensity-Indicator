@@ -123,20 +123,19 @@ Current Level        Average Level
 
 The physical ALII circuit was implemented using breadboards. The hardware demonstrates the power distribution, analog filtering stage, digital logic circuitry, and dual 7-segment displays used for real-time and averaged light-intensity outputs.
 
-![Hardware Setup](<WhatsApp Image 2026-08-21 at 14.25.34.jpeg>)
+![Hardware Setup](<images/WhatsApp Image 2026-08-21 at 14.25.34.jpeg>)
 
 ### Logic Simulation
 
 The complete circuit was modeled and tested in a simulation environment. The simulation includes the Flash ADC, Stability Detector, and Moving Average Calculator subsystems.
 
-![Simulation Circuit](<WhatsApp Image 2026-08-21 at 10.33.01.jpeg>)
+![Simulation Circuit](<images/WhatsApp Image 2026-08-21 at 10.33.01.jpeg>)
 
 ### Project Team Demo
 
 Demonstration of the working ALII hardware module together with the corresponding software simulation.
 
-![Team Demo](<WhatsApp Image 2026-08-11 at 21.57.01 (2).jpeg>)
-
+![Team Demo](<images/WhatsApp Image 2026-08-11 at 21.57.01 (2).jpeg>)
 ## 📂 Repository Contents
 
 ```text
